@@ -1,0 +1,34 @@
+{
+  "name": "geodis",
+  "version": "1.0.0",
+  "description": "A simple function for calculating distance between 2 geo positions based on Haversine formula",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/base.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiahgumeShargh/geodis.git"
+  },
+  "keywords": [
+    "geo",
+    "coordinates",
+    "latitude",
+    "longitude",
+    "distance",
+    "haversine",
+    "weather",
+    "forecast",
+    "algorithm",
+    "city"
+  ],
+  "author": "Siahgum Shargh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiahgumeShargh/geodis/issues"
+  },
+  "homepage": "https://github.com/SiahgumeShargh/geodis#readme"
+}
